@@ -273,8 +273,8 @@ footer div ul li a {
     padding: 0; /* Remove o preenchimento padrão da lista */
   }
 
-  a:hover {
-    color: white;
+  a {
+    color:#ffffff;
   }
   
   .midia ul li{
