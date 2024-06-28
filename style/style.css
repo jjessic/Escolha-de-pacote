@@ -71,6 +71,7 @@ background-color: #0056b3;
 p {
   margin-bottom: 20px;
   color:white;
+  font-family: "Squids.otf";
 }
 
 .planet {
@@ -199,7 +200,7 @@ input[type="radio" i] {
     height: 500px;
     position: relative;
     padding-top: 100px;
-    margin-left: 120px;
+    margin-left: 70px;
   }
   
   .slides {
@@ -231,7 +232,7 @@ input[type="radio" i] {
     display:flex;
     justify-content:center;
     padding: 20px;
-    padding-right: 100px;
+    padding-right: 35px;
   }
   
   .navigation label {
@@ -283,9 +284,11 @@ footer div ul li a {
   .copy{
     margin-top: 100px; /*O conteudo fica mais abaixo da tela*/
     text-align: center;
+    font-family: "Squids.otf";
+    margin-bottom: 10px;
   }
   
-  .copy a{
+  .copy p{
     margin-right: 15px;/*afasta os itens*/
     text-decoration: none;
     color:white;
